@@ -1,8 +1,8 @@
 GIT
   remote: git@github.com:alacaba/xbox-storeparser.git
-  revision: 9de7f619d5644e64d0ee8b17b455e9a5d5517673
+  revision: da8bd85e3c616a22a0da5a29d10d7d3d1253f8d9
   specs:
-    xbox-storeparser (0.1.0)
+    xbox-storeparser (0.2.0)
 
 GEM
   remote: https://rubygems.org/
