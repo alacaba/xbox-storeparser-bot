@@ -1,4 +1,13 @@
-FROM ruby:2.5
+FROM ruby:2.5-alpine
+
+RUN apk add --update \
+  build-base \
+  libxml2-dev \
+  libxslt-dev \
+  git \
+  && rm -rf /var/cache/apk/*
+
+RUN bundle config build.nokogiri --use-system-libraries
 
 WORKDIR /usr/src/app
 
