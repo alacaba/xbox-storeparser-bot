@@ -1,0 +1,6 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://8fd6454ff512e836dcda507c4da40b852c1226bc@github.com/alacaba/xbox-storeparser.git

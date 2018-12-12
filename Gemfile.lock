@@ -1,6 +1,6 @@
 GIT
-  remote: git@github.com:alacaba/xbox-storeparser.git
-  revision: da8bd85e3c616a22a0da5a29d10d7d3d1253f8d9
+  remote: https://8fd6454ff512e836dcda507c4da40b852c1226bc@github.com/alacaba/xbox-storeparser.git
+  revision: 205569bd3ee00233521f0cff6edd1045972e796e
   specs:
     xbox-storeparser (0.2.0)
 
@@ -49,4 +49,4 @@ RUBY VERSION
    ruby 2.5.3p105
 
 BUNDLED WITH
-   1.17.1
+   1.17.2
